@@ -1,6 +1,7 @@
 .keys {
   color:white;
   display:flex;
+  margin-left: 42%;
 }
 
 .img {
@@ -8,7 +9,49 @@
   background-size:cover;
   height: 100%;
   width: 100%;
-  display: flex;
+ /* display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center;*/
+}
+
+.key {
+  margin:15px;
+  border:1px solid white;
+  padding: 12px 8px 0px 8px;
+  transition:all 0.7s;
+}
+
+.key:hover {
+  transform:scale(1.5);
+  background-color: #ffcc00;
+}
+
+/*@keyframes flow {
+  0% {top:0px; left:100px;}
+  100%{ top:0px; right:200px; }
+};*/
+
+.text-animation {
+text-align: center;
+margin-top:20%;
+color:white;
+}
+
+h2 {
+  position:relative;
+  -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+  animation-name: example;
+  animation-duration: 4s;
+  animation-fill-mode: fowards;
+}
+
+@-webkit-keyframes example {
+  from {top: -500px}
+  to {top: 0px}
+}
+
+@keyframes example {
+  from { top:-500px }
+  to { top:0px }
 }
