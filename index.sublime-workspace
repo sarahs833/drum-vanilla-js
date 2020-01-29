@@ -1,0 +1,363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pl",
+				"plant_libraries\tabc"
+			],
+			[
+				"plan",
+				"plant_library\t(user.rb)"
+			],
+			[
+				"plant_",
+				"plant_libraries\tabc"
+			],
+			[
+				"user",
+				"user_params\tabc"
+			],
+			[
+				"point",
+				"point\tabc"
+			],
+			[
+				"genre",
+				"genre_name\tabc"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 276.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sarah/code/sarahs833/drum-vanilla-js/webpack.config.js",
+		"/home/sarah/code/sarahs833/react-router-garage/index.html",
+		"/home/sarah/code/sarahs833/react-router-garage/src/containers/cars_index.jsx",
+		"/home/sarah/code/sarahs833/redux-cities/src/reducers/identity_reducer.js",
+		"/home/sarah/code/sarahs833/redux-wagon-cities/src/actions/cities.js",
+		"/home/sarah/code/sarahs833/react-wagon-cities/package.json",
+		"/home/sarah/code/sarahs833/react-wagon-cities/src/cities.js",
+		"/home/sarah/code/sarahs833/react-wagon-cities/templates/index.html",
+		"/home/sarah/code/sarahs833/react-flats-2/templates/index.html",
+		"/home/sarah/code/sarahs833/react-counter/templates/index.html",
+		"/home/sarah/code/sarahs833/react-counter/src/index.jsx",
+		"/home/sarah/code/sarahs833/react-counter/assets/stylesheets/application.scss",
+		"/home/sarah/code/sarahs833/react-counter/src/components/app.jsx",
+		"/home/sarah/code/sarahs833/react-counter/package.json",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/views/layouts/application.html.erb",
+		"/home/sarah/code/sarahs833/work/profile/stylegrid.css",
+		"/home/sarah/code/sarahs833/garage-redux/assets/images/logo_square.svg",
+		"/home/sarah/code/sarahs833/garage-redux/src/reducers/car_reducer.js",
+		"/home/sarah/code/sarahs833/garage-redux/src/reducers/cars_reducer.js",
+		"/home/sarah/code/sarahs833/spare-leash/config/application.rb",
+		"/home/sarah/code/sarahs833/garage-redux/package.json",
+		"/home/sarah/code/sarahs833/garage-redux/src/reducers/form_reducer.js",
+		"/home/sarah/code/sarahs833/chat-redux/src/reducers/identify_reducer.js",
+		"/home/sarah/code/sarahs833/chat-redux/package.json",
+		"/home/sarah/code/sarahs833/chat-redux/assets/stylesheets/application.scss",
+		"/home/sarah/code/sarahs833/chat-redux/src/messages.js",
+		"/home/sarah/code/sarahs833/chat-redux/src/reducers/selected_channel_reducer.js",
+		"/home/sarah/code/sarahs833/chat-redux/src/reducers/index.js",
+		"/home/sarah/code/sarahs833/chat-redux/templates/index.html",
+		"/home/sarah/code/sarahs833/wagon-cities/src/components/app.jsx",
+		"/home/sarah/code/sarahs833/wagon-cities/src/actions/index.js",
+		"/home/sarah/code/sarahs833/wagon-cities/assets/stylesheets/application.scss",
+		"/home/sarah/code/sarahs833/wagon-cities/src/index.jsx",
+		"/home/sarah/code/sarahs833/react-flats/assets/stylesheets/_cards.scss",
+		"/home/sarah/code/sarahs833/react-flats/src/index.jsx",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/stylesheets/components/_index.scss",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/views/doses/new.html.erb",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/stylesheets/application.scss",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/stylesheets/config/_bootstrap_variables.scss",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/stylesheets/config/_colors.scss",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/stylesheets/config/_fonts.scss",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/stylesheets/pages/_index.scss",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/stylesheets/pages/_home.scss",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/stylesheets/cocktails.scss",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/.env",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/seed.csv",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/jobs/respond_user_msg_job.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/jobs/water_me_often_job.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/jobs/water_me_later_job.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/controllers/login_controller.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/controllers/api/v1/plant_libraries_controller.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/models/plant.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/models/plant_library.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/models/plant_chat.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/db/migrate/20191208075604_add_columns_to_plant_libraries.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/db/migrate/20191208085256_add_more_to_plant_library.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/db/migrate/20191209115412_add_default_valueto_reminder.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/controllers/api/v1/users_controller.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/views/api/v1/plant_libraries/favorite.json.jbuilder",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/views/favorite.html.erb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/views/favorite.json.jbuilder",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/views/api/v1/users/index.json.jbuilder",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/views/api/v1/users/show.json.jbuilder",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/controllers/api/v1/plants_controller.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/mailers/application_mailer.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/views/api/v1/messages/index.json.jbuilder",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/jobs/application_job.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/db/migrate/20191206040817_add_user_to_plant_libraries.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/controllers/api/v1/plant_chats_controller.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/models/user.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/db/migrate/20191206031640_add_user_to_plant_libraries.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/Gemfile",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/test/mailers/previews/user_mailer_preview.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/views/user_mailer/welcome.html.erb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/config/routes.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/config/application.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/config/sidekiq.yml",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/db/schema.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/db/migrate/20191204032723_add_name_to_plants.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/db/migrate/20191205064610_add_email_to_user.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/config/environments/development.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/test/mailers/user_mailer_test.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/db/migrate/20191204032253_add_description_to_plant_libraries.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/db/migrate/20191203104807_add_image_to_plant_libraries.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/db/migrate/20191203023617_create_users.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/controllers/api/v1/messages_controller.rb",
+		"/mnt/c/users/sarah/desktop/plantopia/plantopia-backend/app/controllers/api/v1/base_controller.rb",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/app/views/api/v1/bookings/index.json.jbuilder",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/app/views/api/v1/aliens/index.json.jbuilder",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/app/views/api/v1/aliens/show.json.jbuilder",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/config/routes.rb",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/app/views/api/v1/bookings/show.json.jbuilder",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/db/seeds.rb",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/db/schema.rb",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/app/controllers/api/v1/users_controller.rb",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/app/views/aliens/home.html.erb",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/app/controllers/api/v1/base_controller.rb",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/app/controllers/login_controller.rb",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/app/controllers/application_controller.rb",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/app/controllers/aliens_controller.rb",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/app/models/booking.rb",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/app/models/alien.rb",
+		"/mnt/c/users/sarah/desktop/kaki-xue/rent-a-jedi/config/puma.rb",
+		"/mnt/c/Users/Sarah/Desktop/second－hand house.png",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/uploaders/photo_uploader.rb",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/images/drink13.jpg",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/images/drink12.jpg",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/images/drink11.jpg",
+		"/mnt/c/Users/Sarah/Desktop/drink3.jpg",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/images/drink10.jpg",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/images/drink9.jpg",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/images/drink8.jpg",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/images/drink7.jpg",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/controllers/cocktails_controller.rb",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/db/seeds.rb",
+		"/home/sarah/code/sarahs833/stories-api/config/routes.rb",
+		"/home/sarah/code/sarahs833/stories-api/app/models/story.rb",
+		"/home/sarah/code/sarahs833/stories-api/app/controllers/api/v1/base_controller.rb",
+		"/home/sarah/code/sarahs833/stories-api/Gemfile",
+		"/home/sarah/code/sarahs833/stories-api/db/seeds.rb",
+		"/home/sarah/code/sarahs833/stories-api/app/models/comment.rb",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/images/drink6.jpg",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/images/drink3.jpg",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/images/drink4.jpg",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/images/drink5.jpg",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/.env",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/assets/stylesheets/components/_home.scss",
+		"/home/sarah/code/sarahs833/rails-mister-cocktail/app/models/cocktail.rb"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 412.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 153.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"user",
+				"app/mailers/user_mailer.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"base",
+				"app/controllers/api/v1/base_controller.rb"
+			],
+			[
+				"job",
+				"app/jobs/fake_job.rb"
+			],
+			[
+				"",
+				"app/mailers/user_mailer.rb"
+			],
+			[
+				"usermail",
+				"app/mailers/user_mailer.rb"
+			],
+			[
+				"see",
+				"db/seeds.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
