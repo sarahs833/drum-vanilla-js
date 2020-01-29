@@ -26,6 +26,13 @@
   background-color: #ffcc00;
 }
 
+.playing {
+  transform:scale(1.1);
+  border-color:#0f4c75;
+  box-shadow:0 0 10px #0f4c75;
+
+}
+
 /*@keyframes flow {
   0% {top:0px; left:100px;}
   100%{ top:0px; right:200px; }
